@@ -1,2 +1,2 @@
 # Machine-Learning-Final-Project-COMP-193-B-Fall-2024-
-In this project, I extract data from the employee survey to explore the relationship between the employee's satisfaction level to their current point in the career path and its dynamic. Than I'm going to make it possible to predict the satisfaction level, so the company could pay attention on the stagnation in the carrer of their important employees and make the apropriate decisions on time.
+In this project, I analyze employee survey data to explore the relationship between satisfaction levels and their career progression. The goal is to predict satisfaction levels, enabling the company to identify career stagnation among key employees and take timely, appropriate actions to address it.
