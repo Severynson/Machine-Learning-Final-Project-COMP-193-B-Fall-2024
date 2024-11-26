@@ -1,2 +1,2 @@
 # Machine-Learning-Final-Project-COMP-193-B-Fall-2024-
-In this project, I extract data from run-influencers’ Strava profiles to cluster them into groups (e.g., ultramarathon, marathon, sprinters) based on training style and volume. Using linked social media data, I analyze their equipment preferences to suggest tailored ads for runners with similar Strava profiles.
+In this project, I extract data from the employee survey to explore the relationship between the employee's satisfaction level to their current point in the career path and its dynamic. Than I'm going to make it possible to predict the satisfaction level, so the company could pay attention on the stagnation in the carrer of their important employees and make the apropriate decisions on time.
